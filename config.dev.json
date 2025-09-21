@@ -1,6 +1,6 @@
 {
-  "author": "Saiful islam",
-  "ownerUID": "61570000466312",
+  "author": "",
+  "ownerUID": "",
   "note": " do not cut author name or owner uid.. otherwise bot will not work ⚠️",
 
 
@@ -24,18 +24,18 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61570000466312",
-    "100078639797619",
+    "100089926788317",
+    "100081317798618",
     ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61570000466312"
+      "100089926788317"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "「 SAIF-BOT 」🩷🪽",
+  "nickNameBot": "",
   "prefix": "/",
   "database": {
     "type": "sqlite",
